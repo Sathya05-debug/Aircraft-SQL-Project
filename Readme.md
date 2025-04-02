@@ -86,9 +86,4 @@ Measure the seat occupancy rate for each fl ight by comparing the number of boar
 14. Total Spend per Passenger (3 Marks)
 Aggregate the total amount spent by each passenger across all their tickets by joining the tickets and ticket_fl ights tables.
 Note: Kindly write solution for all queries in a single SQL script fi le
-Artifacts to be generated (For Learners):
-● SQL Script File(.sql)
-● Artifacts generated need to be submitted in vLearn on or before the deadline.
-● SQL Script File Name:
-○ File name: <LearnerName>_CPDA_<Batch>.sql
-○ E.g., KartikMudaliar_CPDA_B1.sql
+
